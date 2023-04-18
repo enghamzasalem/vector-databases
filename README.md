@@ -105,7 +105,7 @@ importQuestions();
     console.error(err)
   });
 ```
-```
+
 
 # weaviate Python App
 
